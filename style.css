@@ -333,7 +333,7 @@ header{
     border-radius: 6px;
     cursor: pointer;
 }
-.add-email p{
+.mail-font{
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-size: 16px;
